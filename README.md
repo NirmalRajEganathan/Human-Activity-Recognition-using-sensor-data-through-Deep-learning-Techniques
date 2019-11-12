@@ -1,0 +1,2 @@
+# Human-Activity-Recognition-using-sensor-data-through-Deep-learning-Techniques
+Human activity recognition (HAR) is gaining importance due to wearables and sensors data associated with it. Different from traditional Pattern Recognition methods, deep learning can largely relieve the effort on designing features and can learn much more high-level and meaningful features by training an end-to-end neural network. You need to find the dataset from open resources which can provide you human activity data.
